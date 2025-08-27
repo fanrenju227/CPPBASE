@@ -2,7 +2,7 @@ welcome to cpp world!
 
 cpp is interesting!
 
-lentiful cpp knowledge here for rookies!
+plentiful cpp knowledge here for rookies!
 
 let's go!
 
